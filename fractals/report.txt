@@ -1,0 +1,2 @@
+name=gpu - min=6.77 max=7.25 mean=7.10 avg=6.97 stdev=0.17
+name=gpu - min=6.63 max=7.21 mean=6.83 avg=6.78 stdev=0.17
